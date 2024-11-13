@@ -138,7 +138,9 @@ header nav ul li a.active {
 
 .figure-img {
     flex: 1;
-    border-radius: 10%;
+    width:40%;
+    height:5%;
+    border-radius: 20%;
     margin-left: 2rem; /* Adjust spacing between image and text */
     height: 40%;
 }
